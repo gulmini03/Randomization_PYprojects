@@ -1,3 +1,4 @@
+#download the hangman_art.py and hangman_words.py file to run this Game
 import random
 import hangman_art
 import hangman_words
